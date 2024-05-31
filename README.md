@@ -4,8 +4,7 @@
 
  FERRAMENTAS E TECNOLOGIAS:
  Estou utilizando Selenium Webdriver com Python em conjunto com os seguintes sites disponibilizados por empresas, para a finalidade de testarmos essas ferramentas de maneira livre:
- saucedemo.com/
-emo.applitools.com
+ saucedemo.com/ and emo.applitools.com
 
 OBJETIVO:
 Este repositório foi criado com o objetivo de documentar minha jornada inicial a tester de automação, demonstrando meu comprometimento em adquirir habilidades e conhecimentos necessários para me tornar um profissional competente nesta área.
